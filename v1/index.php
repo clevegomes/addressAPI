@@ -1,5 +1,6 @@
 <?php
-
+//don't display errors
+ini_set('display_errors', 0);
 /**
  * gz-encoding  activated
  */
