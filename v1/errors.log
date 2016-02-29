@@ -1,0 +1,2 @@
+[29-Feb-2016 23:49:44 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\xampp\htdocs\AddressREST\v1\Models\BaseModel.php on line 40
+[29-Feb-2016 23:49:44 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\xampp\htdocs\AddressREST\v1\Models\BaseModel.php on line 40

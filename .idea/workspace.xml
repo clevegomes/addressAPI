@@ -33,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".htaccess" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+            <state line="1" column="0" selection-start="25" selection-end="33" vertical-scroll-proportion="0.030141843" vertical-offset="0" max-vertical-offset="564">
               <folding />
             </state>
           </provider>
@@ -106,10 +106,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v1/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="0" selection-start="333" selection-end="472" vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="539">
+            <state line="22" column="1" selection-start="475" selection-end="475" vertical-scroll-proportion="-14.96" vertical-offset="0" max-vertical-offset="476">
               <folding>
                 <element signature="e#6#57#0" expanded="true" />
               </folding>
@@ -434,13 +434,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/v1/Http/Controllers/BaseController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="82" selection-start="169" selection-end="169" vertical-scroll-proportion="4.8" vertical-offset="273" max-vertical-offset="833">
@@ -452,10 +445,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="333" selection-end="472" vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="539">
+        <state line="22" column="1" selection-start="475" selection-end="475" vertical-scroll-proportion="-14.96" vertical-offset="0" max-vertical-offset="476">
           <folding>
             <element signature="e#6#57#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="25" selection-end="33" vertical-scroll-proportion="0.030141843" vertical-offset="0" max-vertical-offset="564">
+          <folding />
         </state>
       </provider>
     </entry>
