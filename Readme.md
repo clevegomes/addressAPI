@@ -140,6 +140,14 @@ Result.
   API Architecture
   ----------------
 
-  The code is divided into 3 main parts the httpkernel , Controllers and Model.
+In Brief:
+1. .htaccess rewrites the URL and points it to the index page. htaccess is also responsible to pass errors to a error log file
 
-  httpkernel . This section is responsible the handle all http requests,
+2. Index page. It activates the auto loader , gz encoder ,disables error messages to the display and creates the RESTKernal and passes the request to it
+
+3. RESTKernal  processes the request data and calls the correct controller depending on endpoint .
+
+4. AddressController : For an end point address the AddressController will be called (This is the naming convention used for the controllers).
+ The controller methods index,store,update,delete are called based on HTTP methods GET,POST,PUT,DELETE
+
+5. AddressModel: Model is responsible to handle all database operations. AddressModel will handle all DB operations on the ADDRESS table.
