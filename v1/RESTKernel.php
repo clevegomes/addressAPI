@@ -164,7 +164,7 @@ class RESTKernel {
 
                 $controllerObj = new $controllerClassName;
 	            $return = $controllerObj->store($_REQUEST);
-	            return $this->response(["success"=>$return]);
+	            return $this->response(["success"=>$return],201);
             }
         }
         /*
