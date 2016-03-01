@@ -7,6 +7,7 @@ ini_set('display_errors', 0);
 ob_start('ob_gzhandler');
 
 
+print_r('reached');exit;
 
 include_once "autoload.php";
 
