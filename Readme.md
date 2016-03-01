@@ -152,3 +152,9 @@ In Brief:
  The controller methods index,store,update,delete are called based on HTTP methods GET,POST,PUT,DELETE
 
 5. AddressModel: Model is responsible to handle all database operations. AddressModel will handle all DB operations on the ADDRESS table.
+
+
+Details Description
+-------------------
+
+The details description about the API can be found here http://52.25.60.112/addressapi/docs/api/namespaces/default.html

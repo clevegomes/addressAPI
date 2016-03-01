@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/Config.php" afterPath="$PROJECT_DIR$/v1/Config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -74,10 +75,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Readme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="150" column="49" selection-start="3359" selection-end="3359" vertical-scroll-proportion="0.0" vertical-offset="2152" max-vertical-offset="2720">
+            <state line="159" column="56" selection-start="3796" selection-end="3796" vertical-scroll-proportion="0.938294" vertical-offset="2186" max-vertical-offset="2805">
               <folding />
             </state>
           </provider>
@@ -101,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Config.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v1/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="37" selection-start="336" selection-end="336" vertical-scroll-proportion="0.41078067" vertical-offset="0" max-vertical-offset="538">
+            <state line="16" column="29" selection-start="333" selection-end="333" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -136,8 +137,8 @@
         <option value="$PROJECT_DIR$/v1/Models/AddressModel.php" />
         <option value="$PROJECT_DIR$/v1/Http/Controllers/AddressController.php" />
         <option value="$PROJECT_DIR$/v1/RESTKernel.php" />
-        <option value="$PROJECT_DIR$/Readme.md" />
         <option value="$PROJECT_DIR$/v1/Config.php" />
+        <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
   </component>
@@ -492,7 +493,11 @@
       <created>1456859765227</created>
       <updated>1456859765227</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="final working copy">
+      <created>1456859867882</created>
+      <updated>1456859867882</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -635,16 +640,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Readme.md">
+    <entry file="file://$PROJECT_DIR$/v1/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="150" column="49" selection-start="3359" selection-end="3359" vertical-scroll-proportion="0.0" vertical-offset="2152" max-vertical-offset="2720">
+        <state line="16" column="29" selection-start="333" selection-end="333" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v1/Config.php">
+    <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="37" selection-start="336" selection-end="336" vertical-scroll-proportion="0.41078067" vertical-offset="0" max-vertical-offset="538">
+        <state line="159" column="56" selection-start="3796" selection-end="3796" vertical-scroll-proportion="0.938294" vertical-offset="2186" max-vertical-offset="2805">
           <folding />
         </state>
       </provider>
