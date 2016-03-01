@@ -75,7 +75,7 @@
       <file leaf-file-name="RESTKernel.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v1/RESTKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="34" selection-start="4884" selection-end="4884" vertical-scroll-proportion="0.7472119" vertical-offset="2182" max-vertical-offset="4726">
+            <state line="154" column="16" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.43122676" vertical-offset="2352" max-vertical-offset="4743">
               <folding />
             </state>
           </provider>
@@ -305,7 +305,11 @@
       <created>1456815735196</created>
       <updated>1456815735196</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <created>1456815786308</created>
+      <updated>1456815786308</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -457,7 +461,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/RESTKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="34" selection-start="4884" selection-end="4884" vertical-scroll-proportion="0.7472119" vertical-offset="2182" max-vertical-offset="4726">
+        <state line="154" column="16" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.43122676" vertical-offset="2352" max-vertical-offset="4743">
           <folding />
         </state>
       </provider>
