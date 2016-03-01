@@ -76,54 +76,54 @@ Result.
                 "CITY": "test",
                 "COUNTRY": "test"
             }
-    ]
+            ]
     }
 
 
 
 
-Post an address to the Web service
+3. Post an address to the Web service
 
-3. Method: POST  URL: http://52.25.60.112/addressapi/v1/address/
+Method: POST  URL: http://52.25.60.112/addressapi/v1/address/
 
-DATA:  {"LABEL":"SIT Towers",
-        "STREET": "Sheikh Mohammed Bin Zayed Road",
-        "HOUSENUMBER": "2410",
-        "POSTALCODE": "18234",
-        "CITY": "Silicon Oasis",
-        "COUNTRY": "UAE"
+    DATA:  {"LABEL":"SIT Towers",
+            "STREET": "Sheikh Mohammed Bin Zayed Road",
+            "HOUSENUMBER": "2410",
+            "POSTALCODE": "18234",
+            "CITY": "Silicon Oasis",
+            "COUNTRY": "UAE"
 
-       }
-
-
-Result.
-
-{
-    "success": "Address ID is 35"
-}
-
-
-
-
-Update an address on the Web service
-
-4. Method: PUT   URL http://52.25.60.112/addressapi/v1/address/2
-
-DATA:  {"LABEL":"SIT Towers",
-        "STREET": "Sheikh Mohammed Bin Zayed Road",
-        "HOUSENUMBER": "2410",
-        "POSTALCODE": "18234",
-        "CITY": "Silicon Oasis",
-        "COUNTRY": "UAE"
-
-       }
+           }
 
 
 Result.
 
-{
-    "success": "Address ID  2 has been updated successfully "
-}
+    {
+        "success": "Address ID is 35"
+    }
+
+
+
+
+4.Update an address on the Web service
+
+Method: PUT   URL http://52.25.60.112/addressapi/v1/address/2
+
+    DATA:  {"LABEL":"SIT Towers",
+            "STREET": "Sheikh Mohammed Bin Zayed Road",
+            "HOUSENUMBER": "2410",
+            "POSTALCODE": "18234",
+            "CITY": "Silicon Oasis",
+            "COUNTRY": "UAE"
+
+           }
+
+
+Result.
+
+    {
+        "success": "Address ID  2 has been updated successfully "
+    }
 
 
 
@@ -134,6 +134,6 @@ Delete an address on the Web service
 5. Method DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
 
 Result.
-{
-    "success": "Address ID 35 deleted successfully "
-}
+    {
+        "success": "Address ID 35 deleted successfully "
+    }
