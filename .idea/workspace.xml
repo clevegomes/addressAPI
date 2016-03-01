@@ -86,7 +86,7 @@
       <file leaf-file-name="Readme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="0" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.75886524" vertical-offset="1629" max-vertical-offset="2465">
+            <state line="131" column="2" selection-start="2726" selection-end="2726" vertical-scroll-proportion="3.9485815" vertical-offset="0" max-vertical-offset="2414">
               <folding />
             </state>
           </provider>
@@ -389,7 +389,11 @@
       <created>1456836007924</created>
       <updated>1456836007924</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="final working copy">
+      <created>1456836118698</created>
+      <updated>1456836118698</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -541,7 +545,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="0" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.75886524" vertical-offset="1629" max-vertical-offset="2465">
+        <state line="131" column="2" selection-start="2726" selection-end="2726" vertical-scroll-proportion="3.9485815" vertical-offset="0" max-vertical-offset="2414">
           <folding />
         </state>
       </provider>

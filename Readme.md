@@ -81,8 +81,7 @@ Result.
 
 
 
-
-3. Post an address to the Web service
+3.Post an address to the Web service
 
 Method: POST  URL: http://52.25.60.112/addressapi/v1/address/
 
@@ -118,8 +117,6 @@ Method: PUT   URL http://52.25.60.112/addressapi/v1/address/2
 
            }
 
-
-
 Result.
 
     {
@@ -132,7 +129,7 @@ Result.
 
 Delete an address on the Web service
 
-5. Method DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
+5.Method DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
 
 Result.
     {
