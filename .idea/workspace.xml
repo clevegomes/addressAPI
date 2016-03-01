@@ -2,97 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/font/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/apple-touch-icon-114x114.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/apple-touch-icon-72x72.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/font/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/font/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/grab.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/hand.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/hierarchy-item.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/icon-class-13x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/icon-interface-13x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/icon-trait-13x13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/iviewer.rotate_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/iviewer.rotate_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/iviewer.zoom_fit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/iviewer.zoom_in.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/iviewer.zoom_out.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/iviewer/iviewer.zoom_zero.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Http/Controllers/AddressController.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Models/AddressModel.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Http/Controllers/BaseController.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Models/BaseModel.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/classes/Config.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Config.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Config.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/classes/Http.Controllers.AddressController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Http.Controllers.AddressController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/classes/Http.Controllers.BaseController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Http.Controllers.BaseController.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/namespaces/Http.Controllers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/namespaces/Http.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/classes/Models.AddressModel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Models.AddressModel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/classes/Models.BaseModel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/Models.BaseModel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/namespaces/Models.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/classes/RESTKernel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/RESTKernel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/RESTKernel.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/Read Me.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/autoload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/autoload.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/bootstrap-combined.no-icons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/graphs/class.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/graphs/classes.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/custom-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/namespaces/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/reports/deprecated.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/reports/errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/font/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/html5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/icon-class.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/icon-interface.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/images/icon-trait.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/files/index.php.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery-1.11.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/ui/1.10.4/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery.dotdotdot-1.5.9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery.dotdotdot-1.5.9.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/jquery.iviewer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery.iviewer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery.iviewer.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery.mousewheel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/jquery.smooth-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/lte-ie7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/reports/markers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-74/phpdoc-cache-file_46798eb43cee2009d8db53fd02cf7fcf.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-57/phpdoc-cache-file_65093de2b7adbbb39dd06f23bcff0b2d.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-c8/phpdoc-cache-file_828e0013b8f3bc1bb22b4f57172b019d.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-ee/phpdoc-cache-file_83ad6bd4885732fd14b9d8709d592efd.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-ad/phpdoc-cache-file_91fb88090b9119bfefc5186da6c8841d.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-04/phpdoc-cache-file_959b24de1e4ad207eb5a635466b9c5e0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-ba/phpdoc-cache-file_ac0c68ca11a374f33a18f179a2f8928b.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-a0/phpdoc-cache-file_fc563432a226bf5a590f5de8884da4af.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/phpdoc-cache-2e/phpdoc-cache-settings.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/fonts/phpdocumentor-clean-icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/js/prism.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/phpdocumentor-clean-icons/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/api/css/template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/Config.php" afterPath="$PROJECT_DIR$/v1/Config.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -194,7 +104,7 @@
       <file leaf-file-name="Config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v1/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="336" selection-end="336" vertical-scroll-proportion="0.47397768" vertical-offset="0" max-vertical-offset="538">
+            <state line="16" column="37" selection-start="336" selection-end="336" vertical-scroll-proportion="0.41078067" vertical-offset="0" max-vertical-offset="538">
               <folding />
             </state>
           </provider>
@@ -578,12 +488,16 @@
       <created>1456859614031</created>
       <updated>1456859614031</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="final working copy">
+      <created>1456859765227</created>
+      <updated>1456859765227</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -596,7 +510,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6716667" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.6716667" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -730,7 +644,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="336" selection-end="336" vertical-scroll-proportion="0.47397768" vertical-offset="0" max-vertical-offset="538">
+        <state line="16" column="37" selection-start="336" selection-end="336" vertical-scroll-proportion="0.41078067" vertical-offset="0" max-vertical-offset="538">
           <folding />
         </state>
       </provider>

@@ -12,8 +12,8 @@ class Config {
 
 
     public $DB_HOST = "localhost";
-    public $DB_DATABASE = "addressBook";
+    public $DB_DATABASE = "stormy";
     public $DB_USERNAME = "root";
-    public $DB_PASSWORD = "";
+    public $DB_PASSWORD = "lifebuoy";
 
 }
