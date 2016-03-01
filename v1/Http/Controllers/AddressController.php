@@ -58,7 +58,6 @@ class AddressController implements BaseController {
     function store($request)
     {
 
-        print_r('reached');exit;
 	    $args = [];
 	    //Validation
 	    if(isset($request["LABEL"]) && isset($request['STREET']) && isset($request["HOUSENUMBER"]) &&
@@ -77,6 +76,7 @@ class AddressController implements BaseController {
 		    throw new \Exception("Invalid Post Parameters");
 	    }
 
+        print_r('reached');exit;
 
 	    $addressObj = new AddressModel();
 	    $status = $addressObj->storeAddress($args);
