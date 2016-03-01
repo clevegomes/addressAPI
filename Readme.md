@@ -59,8 +59,11 @@ Result .
 
 
 Get a particular address
+
 2.  Method: GET   URL: http://52.25.60.112/addressapi/v1/address/1
+
 Result.
+
 {
     "success": [
         {
@@ -79,7 +82,9 @@ Result.
 
 
 Post an address to the Web service
+
 3. Method: POST  URL: http://52.25.60.112/addressapi/v1/address/
+
 DATA:  {"LABEL":"SIT Towers",
         "STREET": "Sheikh Mohammed Bin Zayed Road",
         "HOUSENUMBER": "2410",
@@ -91,6 +96,7 @@ DATA:  {"LABEL":"SIT Towers",
 
 
 Result.
+
 {
     "success": "Address ID is 35"
 }
@@ -99,7 +105,9 @@ Result.
 
 
 Update an address on the Web service
+
 4. Method: PUT   URL http://52.25.60.112/addressapi/v1/address/2
+
 DATA:  {"LABEL":"SIT Towers",
         "STREET": "Sheikh Mohammed Bin Zayed Road",
         "HOUSENUMBER": "2410",
@@ -111,6 +119,7 @@ DATA:  {"LABEL":"SIT Towers",
 
 
 Result.
+
 {
     "success": "Address ID  2 has been updated successfully "
 }
@@ -120,6 +129,7 @@ Result.
 
 
 Delete an address on the Web service
+
 5. Method DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
 
 Result.
