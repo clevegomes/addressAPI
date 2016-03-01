@@ -137,8 +137,8 @@ Result.
 
 
 
-  API Architecture
-  ----------------
+API Architecture
+----------------
 
 In Brief:
 
@@ -154,10 +154,10 @@ In Brief:
 5. AddressModel: Model is responsible to handle all database operations. AddressModel will handle all DB operations on the ADDRESS table.
 
 
-Details Description
+Detailed Description
 -------------------
 
-The details description about the API can be found here http://52.25.60.112/addressapi/docs/api/index.html
+The Detailed description about the API can be found here http://52.25.60.112/addressapi/docs/api/index.html
 
 
 Advantages of this REST API Architecture
