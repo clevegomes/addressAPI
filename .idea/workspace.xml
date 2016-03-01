@@ -57,7 +57,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v1/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="24" selection-start="145" selection-end="145" vertical-scroll-proportion="0.2843866" vertical-offset="0" max-vertical-offset="538">
+            <state line="9" column="17" selection-start="138" selection-end="138" vertical-scroll-proportion="0.2843866" vertical-offset="0" max-vertical-offset="538">
               <folding />
             </state>
           </provider>
@@ -293,7 +293,11 @@
       <created>1456815398576</created>
       <updated>1456815398576</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1456815606245</created>
+      <updated>1456815606245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -445,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="24" selection-start="145" selection-end="145" vertical-scroll-proportion="0.2843866" vertical-offset="0" max-vertical-offset="538">
+        <state line="9" column="17" selection-start="138" selection-end="138" vertical-scroll-proportion="0.2843866" vertical-offset="0" max-vertical-offset="538">
           <folding />
         </state>
       </provider>
