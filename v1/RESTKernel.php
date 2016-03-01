@@ -17,7 +17,7 @@ class RESTKernel {
 
 
     /**
-    either GET, POST, PUT or DELETE
+    * either GET, POST, PUT or DELETE
      */
     protected $method = '';
     /**

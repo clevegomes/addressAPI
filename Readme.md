@@ -125,12 +125,21 @@ Result.
 
 
 
-Delete an address on the Web service
+5.Delete an address on the Web service
 
-5.Method: DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
+Method: DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
 
 Result.
 
     {
         "success": "Address ID 35 deleted successfully "
     }
+
+
+
+  API Architecture
+  ----------------
+
+  The code is divided into 3 main parts the httpkernel , Controllers and Model.
+
+  httpkernel . This section is responsible the handle all http requests,
