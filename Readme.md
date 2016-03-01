@@ -141,6 +141,7 @@ Result.
   ----------------
 
 In Brief:
+
 1. .htaccess rewrites the URL and points it to the index page. htaccess is also responsible to pass errors to a error log file
 
 2. Index page. It activates the auto loader , gz encoder ,disables error messages to the display and creates the RESTKernal and passes the request to it
