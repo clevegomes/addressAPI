@@ -99,30 +99,35 @@ class AddressController implements BaseController {
 	    }
 	    $args["ADDRESSID"] = $request["args"][0];
 
-	    if(isset($request["LABEL"]) && isset($request['STREET']) && isset($request["HOUSENUMBER"]) &&
-		    isset($request["POSTALCODE"]) && isset($request["CITY"]) && isset($request["COUNTRY"]))
-	    {
 
 
+
+            if(isset($request["LABEL"]))
 		    $args["LABEL"] = $request["LABEL"];
+
+            if(isset($request['STREET']))
 		    $args["STREET"] = $request["STREET"];
+
+            if(isset($request['HOUSENUMBER']))
 		    $args["HOUSENUMBER"] = $request["HOUSENUMBER"];
+
+
+            if(isset($request['POSTALCODE']))
 		    $args["POSTALCODE"] = $request["POSTALCODE"];
+
+            if(isset($request['CITY']))
 		    $args["CITY"] = $request["CITY"];
+
+             if(isset($request['COUNTRY']))
 		    $args["COUNTRY"] = $request["COUNTRY"];
 
-	    }
-	    else
-	    {
-		    throw new \Exception("Invalid Post Parameters");
-	    }
 
 
 	    $addressObj = new AddressModel();
 	    $status = $addressObj->updateAddress($args);
 
 	    if($status == false)
-		    throw new \Exception("Internal Error");
+		    throw new \Exception("Could not update");
 
 
 	    return "Address ID  ".$args["ADDRESSID"]." has been updated successfully ";

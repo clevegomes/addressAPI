@@ -10,6 +10,10 @@
 class RESTKernel {
 
 
+    /**
+     * Filters
+     */
+        protected  $filters;
 
 
     /**
@@ -44,12 +48,14 @@ class RESTKernel {
         header("Access-Control-Allow-Methods: *");
         header("Content-Type: application/json");
 
+
         $this->args = explode('/', rtrim($request, '/'));
         //Fetching the first value from the request which is the endpoint
         $this->endpoint = array_shift($this->args);
         if (array_key_exists(0, $this->args) && !is_numeric($this->args[0])) {
             $this->verb = array_shift($this->args);
         }
+
         $this->method = $_SERVER['REQUEST_METHOD'];
         // Fetching the delete and put method from the  HTTP_X_HTTP_METHOD
         if ($this->method == 'POST' && array_key_exists('HTTP_X_HTTP_METHOD', $_SERVER)) {
@@ -61,22 +67,27 @@ class RESTKernel {
                 throw new Exception("Unexpected Header");
             }
         }
+
+
         switch($this->method) {
+
+            case 'GET': // read
+                $this->filters = $this->cleanup($_GET);
+                break;
             case 'DELETE':  // delete
             case 'POST':    // Create or Add
-                $this->request = $this->cleanup($_POST);
-                break;
-            case 'GET': // read
-                $this->request = $this->cleanup($_GET);
-                break;
             case 'PUT': //replace update
-                $this->request = $this->cleanup($_GET);
+                $this->filters = $this->cleanup($_GET);
                 $this->file = file_get_contents("php://input");
+                $this->SetRequestfromJson($this->file);
                 break;
             default:
                 $this->response('Invalid Method', 405);
                 break;
         }
+
+
+
     }
     /**
      * Processing the API  . Its also responsible to catch all the exceptions and produce a correct error message
@@ -162,6 +173,7 @@ class RESTKernel {
         else if($this->method == 'PUT' && isset($this->args[0]))
         {
 
+            $this->SetRequestfromJson($this->file);
             /**
              * This is same as what was done for the get .But a different method is called
              */
@@ -211,12 +223,9 @@ class RESTKernel {
         return $this->response(["Error"=> "No Endpoint:".$this->endpoint], 404);
 
 
-
-
-
-
-
     }
+
+
     /*
      *  Building the Response message
      */
@@ -259,14 +268,14 @@ class RESTKernel {
         return ($status[$code])?$status[$code]:$status[500];
     }
 
+    public function SetRequestfromJson($jsondata)
+    {
+        $putData = json_decode($jsondata, true);
+        foreach ($putData as $key => $val) {
+            $_REQUEST[$key] =$this->cleanup($val); ;
+        }
+
+    }
 
 
-
-
-
-
-
-
-
-
-} 
+}

@@ -2,3 +2,43 @@
 [29-Feb-2016 23:49:44 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\xampp\htdocs\AddressREST\v1\Models\BaseModel.php on line 40
 [01-Mar-2016 00:05:22 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\xampp\htdocs\AddressREST\v1\Models\BaseModel.php on line 40
 [01-Mar-2016 00:05:24 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\xampp\htdocs\AddressREST\v1\Models\BaseModel.php on line 40
+[01-Mar-2016 08:24:59 Europe/Berlin] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in D:\xampp\htdocs\AddressREST\v1\Models\BaseModel.php on line 40
+[01-Mar-2016 08:32:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';' in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:37 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:39 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:40 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:40 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:40 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:40 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:41 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:45 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:45 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:46 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:57 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:57 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:58 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:50:58 Europe/Berlin] PHP Notice:  Undefined variable: request in D:\xampp\htdocs\AddressREST\v1\index.php on line 10
+[01-Mar-2016 09:54:56 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 09:54:57 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 09:54:57 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 09:54:57 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 09:54:58 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 09:54:58 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 09:54:58 Europe/Berlin] PHP Notice:  Undefined index: HTTP_X_HTTP_METHOD in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 47
+[01-Mar-2016 11:09:26 Europe/Berlin] PHP Notice:  Undefined index: file in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 102
+[01-Mar-2016 11:29:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 174
+[01-Mar-2016 11:29:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in D:\xampp\htdocs\AddressREST\v1\RESTKernel.php on line 174
+[01-Mar-2016 11:41:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:12 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118
+[01-Mar-2016 11:41:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in D:\xampp\htdocs\AddressREST\v1\Http\Controllers\AddressController.php on line 118

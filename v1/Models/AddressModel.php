@@ -105,13 +105,17 @@ class AddressModel extends BaseModel{
     public function updateAddress($args = [])
 	{
 
+
+        $fieldList = ["LABEL","STREET","HOUSENUMBER",'POSTALCODE','CITY','COUNTRY'];
 		$sqlupdate = " update ADDRESS set  ";
 		$sqlwhere = " where ADDRESSID = '".$args["ADDRESSID"]."'";
 		$sqlmid = "";
 		$firstFlag = true;
 		foreach($args as $ky =>$val)
 		{
-			if($ky != "ADDRESSID")
+
+
+			if(in_array($ky, $fieldList))
 			{
 				if($firstFlag == false)
 				{
