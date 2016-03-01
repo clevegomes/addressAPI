@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -85,7 +86,7 @@
       <file leaf-file-name="Readme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="1" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.81914896" vertical-offset="966" max-vertical-offset="2448">
+            <state line="121" column="0" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.75886524" vertical-offset="1629" max-vertical-offset="2465">
               <folding />
             </state>
           </provider>
@@ -384,7 +385,11 @@
       <created>1456835924221</created>
       <updated>1456835924221</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="final working copy">
+      <created>1456836007924</created>
+      <updated>1456836007924</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -536,7 +541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="1" selection-start="1846" selection-end="1846" vertical-scroll-proportion="0.81914896" vertical-offset="966" max-vertical-offset="2448">
+        <state line="121" column="0" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.75886524" vertical-offset="1629" max-vertical-offset="2465">
           <folding />
         </state>
       </provider>
