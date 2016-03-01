@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/errors.log" afterPath="$PROJECT_DIR$/v1/errors.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -86,7 +87,7 @@
       <file leaf-file-name="Readme.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="2" selection-start="2726" selection-end="2726" vertical-scroll-proportion="3.9485815" vertical-offset="0" max-vertical-offset="2414">
+            <state line="129" column="9" selection-start="2731" selection-end="2731" vertical-scroll-proportion="0.75886524" vertical-offset="1765" max-vertical-offset="2380">
               <folding />
             </state>
           </provider>
@@ -393,7 +394,11 @@
       <created>1456836118698</created>
       <updated>1456836118698</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="final working copy">
+      <created>1456836225126</created>
+      <updated>1456836225126</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -545,7 +550,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="2" selection-start="2726" selection-end="2726" vertical-scroll-proportion="3.9485815" vertical-offset="0" max-vertical-offset="2414">
+        <state line="129" column="9" selection-start="2731" selection-end="2731" vertical-scroll-proportion="0.75886524" vertical-offset="1765" max-vertical-offset="2380">
           <folding />
         </state>
       </provider>

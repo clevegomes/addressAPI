@@ -125,11 +125,9 @@ Result.
 
 
 
-
-
 Delete an address on the Web service
 
-5.Method DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
+5.Method: DELETE    URL  http://52.25.60.112/addressapi/v1/address/35
 
 Result.
     {
