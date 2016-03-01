@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/Http/Controllers/AddressController.php" afterPath="$PROJECT_DIR$/v1/Http/Controllers/AddressController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/Models/AddressModel.php" afterPath="$PROJECT_DIR$/v1/Models/AddressModel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/Config.php" afterPath="$PROJECT_DIR$/v1/Config.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/RESTKernel.php" afterPath="$PROJECT_DIR$/v1/RESTKernel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/errors.log" afterPath="$PROJECT_DIR$/v1/errors.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/index.php" afterPath="$PROJECT_DIR$/v1/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -79,10 +74,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RESTKernel.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="RESTKernel.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v1/RESTKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="212" column="96" selection-start="6421" selection-end="6421" vertical-scroll-proportion="0.37250996" vertical-offset="3383" max-vertical-offset="4828">
+            <state line="212" column="96" selection-start="6421" selection-end="6421" vertical-scroll-proportion="-3.6666667" vertical-offset="3383" max-vertical-offset="4828">
               <folding />
             </state>
           </provider>
@@ -106,10 +101,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v1/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="33" selection-start="293" selection-end="293" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="425">
+            <state line="16" column="2" selection-start="326" selection-end="326" vertical-scroll-proportion="0.41935483" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -136,12 +131,12 @@
         <option value="$PROJECT_DIR$/v1/Http/Controllers/BaseController.php" />
         <option value="$PROJECT_DIR$/v1/Models/BaseModel.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/v1/Config.php" />
         <option value="$PROJECT_DIR$/postdata.html" />
         <option value="$PROJECT_DIR$/v1/index.php" />
         <option value="$PROJECT_DIR$/v1/Models/AddressModel.php" />
         <option value="$PROJECT_DIR$/v1/Http/Controllers/AddressController.php" />
         <option value="$PROJECT_DIR$/v1/RESTKernel.php" />
+        <option value="$PROJECT_DIR$/v1/Config.php" />
       </list>
     </option>
   </component>
@@ -332,7 +327,11 @@
       <created>1456816920110</created>
       <updated>1456816920110</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="final working copy">
+      <created>1456831395649</created>
+      <updated>1456831395649</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -377,7 +376,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="final working copy" />
+    <option name="LAST_COMMIT_MESSAGE" value="final working copy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -435,13 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v1/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="33" selection-start="293" selection-end="293" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="11" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
@@ -481,7 +474,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/RESTKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="96" selection-start="6421" selection-end="6421" vertical-scroll-proportion="0.37250996" vertical-offset="3383" max-vertical-offset="4828">
+        <state line="212" column="96" selection-start="6421" selection-end="6421" vertical-scroll-proportion="-3.6666667" vertical-offset="3383" max-vertical-offset="4828">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="2" selection-start="326" selection-end="326" vertical-scroll-proportion="0.41935483" vertical-offset="0" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
