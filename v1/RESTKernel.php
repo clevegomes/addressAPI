@@ -101,7 +101,6 @@ class RESTKernel {
 			 throw new Exception("Invalid Address ID");
 		 }
 
-            print_r('reached');exit;
             /**
              * Adding args that we processed from the url into the request array
              */
@@ -153,6 +152,7 @@ class RESTKernel {
             if (class_exists($controllerClassName)) {
 
 
+                print_r('reacheddd');exit;
 
                 $controllerObj = new $controllerClassName;
 	            $return = $controllerObj->store($_REQUEST);
