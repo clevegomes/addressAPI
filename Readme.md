@@ -65,7 +65,7 @@ Method: GET   URL: http://52.25.60.112/addressapi/v1/address/1
 
 Result.
 
-{
+  {
     "success": [
         {
             "ADDRESSID": "1",
@@ -77,7 +77,7 @@ Result.
             "COUNTRY": "test"
         }
     ]
-}
+  }
 
 
 
