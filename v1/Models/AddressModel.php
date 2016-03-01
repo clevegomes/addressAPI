@@ -89,7 +89,7 @@ class AddressModel extends BaseModel{
 		        COUNTRY = '".$args['COUNTRY']."'
 				";
 
-
+print_r($sql);exit;
 		if($result = $this->conection->query($sql))
 		{
 			 return mysqli_insert_id($this->conection);
