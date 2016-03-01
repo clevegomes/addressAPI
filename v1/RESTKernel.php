@@ -151,10 +151,6 @@ class RESTKernel {
             $controllerClassName = "\\Http\\Controllers\\".ucfirst($this->endpoint)."Controller";
             if (class_exists($controllerClassName)) {
 
-
-
-                print_r('reacheddd');exit;
-
                 $controllerObj = new $controllerClassName;
 	            $return = $controllerObj->store($_REQUEST);
 	            return $this->response(["success"=>$return]);

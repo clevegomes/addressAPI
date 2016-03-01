@@ -58,6 +58,7 @@ class AddressController implements BaseController {
     function store($request)
     {
 
+        print_r('reached');exit;
 	    $args = [];
 	    //Validation
 	    if(isset($request["LABEL"]) && isset($request['STREET']) && isset($request["HOUSENUMBER"]) &&
