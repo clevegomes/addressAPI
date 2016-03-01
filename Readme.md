@@ -23,7 +23,7 @@ http://52.25.60.112/addressapi/v1/address/
 
 Result .
 
-{
+    {
     "success": [
         {
             "ADDRESSID": "1",
@@ -34,7 +34,6 @@ Result .
             "CITY": "test",
             "COUNTRY": "test"
         },
-
         {
             "ADDRESSID": "4",
             "LABEL": "test",
@@ -44,7 +43,6 @@ Result .
             "CITY": "test",
             "COUNTRY": "test"
         },
-
         {
             "ADDRESSID": "5",
             "LABEL": "test",
@@ -56,7 +54,7 @@ Result .
         }
 
         ]
-}
+    }
 
 
 
