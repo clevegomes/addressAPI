@@ -17,9 +17,9 @@ Test cases.
 The REST webservice is deployed on a AWS server and can be accessed using
 http://52.25.60.112/addressapi/v1/address/
 
-Get all addresses
+1.Get all addresses
 
-1. method :GET URL: http://52.25.60.112/addressapi/v1/address/
+ method :GET URL: http://52.25.60.112/addressapi/v1/address/
 
 Result .
 
@@ -34,6 +34,7 @@ Result .
             "CITY": "test",
             "COUNTRY": "test"
         },
+
         {
             "ADDRESSID": "4",
             "LABEL": "test",
@@ -43,6 +44,7 @@ Result .
             "CITY": "test",
             "COUNTRY": "test"
         },
+
         {
             "ADDRESSID": "5",
             "LABEL": "test",
@@ -52,15 +54,16 @@ Result .
             "CITY": "test",
             "COUNTRY": "test"
         }
+
         ]
 }
 
 
 
 
-Get a particular address
+2.Get a particular address
 
-2.  Method: GET   URL: http://52.25.60.112/addressapi/v1/address/1
+Method: GET   URL: http://52.25.60.112/addressapi/v1/address/1
 
 Result.
 
