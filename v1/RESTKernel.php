@@ -101,7 +101,7 @@ class RESTKernel {
 			 throw new Exception("Invalid Address ID");
 		 }
 
-
+            print_r('reached');exit;
             /**
              * Adding args that we processed from the url into the request array
              */
