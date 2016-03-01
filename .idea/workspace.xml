@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v1/RESTKernel.php" afterPath="$PROJECT_DIR$/v1/RESTKernel.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -75,7 +74,7 @@
       <file leaf-file-name="RESTKernel.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v1/RESTKernel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="154" column="16" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.43122676" vertical-offset="2352" max-vertical-offset="4743">
+            <state line="154" column="0" selection-start="4850" selection-end="4850" vertical-scroll-proportion="0.43122676" vertical-offset="2352" max-vertical-offset="4743">
               <folding />
             </state>
           </provider>
@@ -309,7 +308,11 @@
       <created>1456815786308</created>
       <updated>1456815786308</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1456815842449</created>
+      <updated>1456815842449</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -461,7 +464,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/RESTKernel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="154" column="16" selection-start="4866" selection-end="4866" vertical-scroll-proportion="0.43122676" vertical-offset="2352" max-vertical-offset="4743">
+        <state line="154" column="0" selection-start="4850" selection-end="4850" vertical-scroll-proportion="0.43122676" vertical-offset="2352" max-vertical-offset="4743">
           <folding />
         </state>
       </provider>
