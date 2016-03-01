@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c2041-1645-4ebb-a21b-27e40a5cec83" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AddressREST.iws" />
@@ -74,10 +73,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Readme.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Readme.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Readme.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="155" column="27" selection-start="3721" selection-end="3721" vertical-scroll-proportion="0.29038113" vertical-offset="2475" max-vertical-offset="3043">
+            <state line="155" column="27" selection-start="3721" selection-end="3721" vertical-scroll-proportion="0.0" vertical-offset="2475" max-vertical-offset="3043">
               <folding />
             </state>
           </provider>
@@ -101,10 +100,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v1/Config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="29" selection-start="333" selection-end="333" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
+            <state line="16" column="29" selection-start="333" selection-end="333" vertical-scroll-proportion="0.41078067" vertical-offset="0" max-vertical-offset="538">
               <folding />
             </state>
           </provider>
@@ -508,7 +507,11 @@
       <created>1456862167004</created>
       <updated>1456862167004</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="final working copy">
+      <created>1456862581358</created>
+      <updated>1456862581358</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -637,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v1/Config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="29" selection-start="333" selection-end="333" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="357">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/v1/Models/BaseModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="0" selection-start="1032" selection-end="1032" vertical-scroll-proportion="-9.115385" vertical-offset="477" max-vertical-offset="1037">
@@ -660,7 +656,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="155" column="27" selection-start="3721" selection-end="3721" vertical-scroll-proportion="0.29038113" vertical-offset="2475" max-vertical-offset="3043">
+        <state line="155" column="27" selection-start="3721" selection-end="3721" vertical-scroll-proportion="0.0" vertical-offset="2475" max-vertical-offset="3043">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v1/Config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="29" selection-start="333" selection-end="333" vertical-scroll-proportion="0.41078067" vertical-offset="0" max-vertical-offset="538">
           <folding />
         </state>
       </provider>
