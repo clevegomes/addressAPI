@@ -153,6 +153,7 @@ In Brief:
 
 5. AddressModel: Model is responsible to handle all database operations. AddressModel will handle all DB operations on the ADDRESS table.
 
+6. Config.php : Config file contains the database configuration settings
 
 Detailed Description
 -------------------
