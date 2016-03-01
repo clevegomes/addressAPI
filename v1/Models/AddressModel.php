@@ -28,7 +28,7 @@ class AddressModel extends BaseModel{
     public function destroyAddress($addressid = NULL)
 	{
 
-		if($this->conection->query("delete from address   where  ADDRESSID  ='$addressid'"))
+		if($this->conection->query("delete from ADDRESS   where  ADDRESSID  ='$addressid'"))
 		{
 			return true;
 		}
@@ -50,7 +50,7 @@ class AddressModel extends BaseModel{
 
 		if($addressid != NULL)
 			$sqlWhere = "  where  ADDRESSID = '".$addressid."' ";
-		if($result = $this->conection->query(" select ADDRESSID,LABEL,STREET,HOUSENUMBER,POSTALCODE,CITY,COUNTRY from  address ".$sqlWhere))
+		if($result = $this->conection->query(" select ADDRESSID,LABEL,STREET,HOUSENUMBER,POSTALCODE,CITY,COUNTRY from  ADDRESS ".$sqlWhere))
 		{
 
 			$returnArry =[];
@@ -80,7 +80,7 @@ class AddressModel extends BaseModel{
     public function storeAddress($args = [])
 	{
 
-		$sql = "insert into address set
+		$sql = "insert into ADDRESS set
 		        LABEL = '".$args['LABEL']."',
 		        STREET = '".$args['STREET']."',
 		        HOUSENUMBER = '".$args['HOUSENUMBER']."',
@@ -89,7 +89,6 @@ class AddressModel extends BaseModel{
 		        COUNTRY = '".$args['COUNTRY']."'
 				";
 
-print_r($sql);exit;
 		if($result = $this->conection->query($sql))
 		{
 			 return mysqli_insert_id($this->conection);
@@ -106,7 +105,7 @@ print_r($sql);exit;
     public function updateAddress($args = [])
 	{
 
-		$sqlupdate = " update address set  ";
+		$sqlupdate = " update ADDRESS set  ";
 		$sqlwhere = " where ADDRESSID = '".$args["ADDRESSID"]."'";
 		$sqlmid = "";
 		$firstFlag = true;
