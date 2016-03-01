@@ -260,6 +260,7 @@ class RESTKernel {
     private function _requestStatus($code) {
         $status = array(
             200 => 'OK',
+            201 => 'Created',
             400 => 'Invalid Data',
             404 => 'Not Found',
             405 => 'Method Not Allowed',
