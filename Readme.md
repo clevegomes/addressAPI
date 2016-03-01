@@ -65,19 +65,19 @@ Method: GET   URL: http://52.25.60.112/addressapi/v1/address/1
 
 Result.
 
-  {
-    "success": [
-        {
-            "ADDRESSID": "1",
-            "LABEL": "test",
-            "STREET": "test",
-            "HOUSENUMBER": "test",
-            "POSTALCODE": "test",
-            "CITY": "test",
-            "COUNTRY": "test"
-        }
+    {
+         success": [
+            {
+                "ADDRESSID": "1",
+                "LABEL": "test",
+                "STREET": "test",
+                "HOUSENUMBER": "test",
+                "POSTALCODE": "test",
+                "CITY": "test",
+                "COUNTRY": "test"
+            }
     ]
-  }
+    }
 
 
 
