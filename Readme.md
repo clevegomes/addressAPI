@@ -149,7 +149,7 @@ In Brief:
 3. RESTKernal  processes the request data and calls the correct controller depending on the endpoint .
 
 4. AddressController : For an end point "address" the AddressController will be called (This is the naming convention used for the controllers).
- The controller methods index,store,update,delete are called based on HTTP methods GET,POST,PUT,DELETE
+ The controller methods index,store,update,destroy are called based on HTTP methods GET,POST,PUT,DELETE
 
 5. AddressModel: Model is responsible to handle all database operations. AddressModel will handle all DB operations on the ADDRESS table.
 
