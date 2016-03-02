@@ -166,7 +166,7 @@ Advantages of this REST API Architecture
 
 1. Adding a new endpoint is very easy. Just create a controller with the endpoint name by implementing the Controller Interface (endpoint : address ,Controller : AddressController).You will get all the required methods (index,store,update,destroy).Write your code in these methods.
 
-2. All DB operations are done in the models. Therefor in future if there is requirement to change the Database .Just change the Models.Controllers and your business logic wont be effected.
+2. All DB operations are done in the models. Therefore in future if there is requirement to change the Database .Just change the Models.Controllers and your business logic wont be effected.
 
 3. All success messages and error messages are processed and handled by the RESTKernel. RESTKernel will put the correct header message based on the message type (200,201,400 etc).
 
